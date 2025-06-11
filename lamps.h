@@ -4,14 +4,6 @@
 /*
    This class controls a group of lamps of which only a subset are active.
    Call the constructor, then toggle the lamps by calling the provided method.
-   Turning lamps off is untested and pointless since limitations to GLSL mean
-   you can't dinamically modify the length of a For loop anyway.
-
-   After turning the lights on you can access their properties by using the
-   provided methods. Make sure you use the correct index to access them:
-   almost all methods use active-lamp indexing (e.g. index 0 corresponds to
-   the first lamp you turned on), except toggle() which of course uses the
-   actual index of the lamp.
 */
 
 class LampGroup {
