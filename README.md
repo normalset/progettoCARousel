@@ -6,6 +6,6 @@
 - Mouse movement to move the camera
 - C to change the displayed camera
 - L to turn on/off the street lights
-- K to Turn on/off the sun
+- O to Turn on/off the sun
 - J to turn on/off the car lights
-- Q to turn on/off the shadows 
+- I to turn on/off the shadows 
